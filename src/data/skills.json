@@ -1,0 +1,57 @@
+[
+  {
+    "category": "Languages",
+    "items": [
+      { "name": "Python", "icon": "SiPython" },
+      { "name": "JavaScript", "icon": "SiJavascript" },
+      { "name": "TypeScript", "icon": "SiTypescript" },
+      { "name": "Java", "icon": "FaJava" }
+    ]
+  },
+  {
+    "category": "Frontend",
+    "items": [
+      { "name": "React", "icon": "SiReact" },
+      { "name": "Next.js", "icon": "SiNextdotjs" },
+      { "name": "HTML5", "icon": "SiHtml5" },
+      { "name": "CSS", "icon": "SiCss" },
+      { "name": "TailwindCSS", "icon": "SiTailwindcss" }
+    ]
+  },
+  {
+    "category": "Mobile",
+    "items": [
+      { "name": "React Native", "icon": "SiReact" },
+      { "name": "Expo", "icon": "SiExpo" }
+    ]
+  },
+  {
+    "category": "Backend",
+    "items": [
+      { "name": "Flask", "icon": "SiFlask" },
+      { "name": "Hono", "icon": "SiHono" },
+      { "name": "Cloudflare Workers", "icon": "SiCloudflareworkers" },
+      { "name": "REST API Development", "icon": "SiSwagger" }
+    ]
+  },
+  {
+    "category": "Database",
+    "items": [
+      { "name": "SQLite", "icon": "SiSqlite" },
+      { "name": "Supabase", "icon": "SiSupabase" },
+      { "name": "JSON", "icon": "SiJson" }
+    ]
+  },
+  {
+    "category": "Tools & Technologies",
+    "items": [
+      { "name": "Git", "icon": "SiGit" },
+      { "name": "GitHub", "icon": "SiGithub" },
+      { "name": "Figma", "icon": "SiFigma" },
+      { "name": "Playwright", "icon": "Theater" },
+      { "name": "Responsive Design", "icon": "MonitorSmartphone" },
+      { "name": "API Integration", "icon": "Plug" },
+      { "name": "AI & Machine Learning", "icon": "Brain" }
+    ]
+  }
+]

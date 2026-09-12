@@ -1,0 +1,26 @@
+[
+  {
+    "id": "web",
+    "title": "Web Application Development",
+    "description": "Responsive, performant frontends with React — from landing pages to complex dashboards that users love.",
+    "icon": "Globe"
+  },
+  {
+    "id": "backend",
+    "title": "API & Backend Engineering",
+    "description": "RESTful APIs and server-side logic with Node.js and Python/Flask — built for scale, security, and maintainability.",
+    "icon": "Server"
+  },
+  {
+    "id": "fullstack",
+    "title": "Full-Stack Solutions",
+    "description": "End-to-end product development — connecting frontend, backend, and databases into cohesive digital experiences.",
+    "icon": "Layers"
+  },
+  {
+    "id": "critical-thinking",
+    "title": "Critical Thinking",
+    "description": "Finding solutions to real world problems using my tech and business knowledge.",
+    "icon": "Brain"
+  }
+]

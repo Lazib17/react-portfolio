@@ -1,0 +1,13 @@
+{
+  "name": "Lazib Hossain",
+  "initials": "LH",
+  "title": "Full-Stack Developer",
+  "location": "Japan",
+  "tagline": "Building scalable digital products for modern businesses",
+  "bio": "I'm a full-stack developer with 3 years of experience turning ideas into reliable web applications. I specialize in React, Node.js, and Python — building everything from polished frontends to robust APIs and backend systems. I care about clean architecture, performance, and shipping products that actually solve business problems.",
+  "email": "hossain.g5a@gmail.com",
+  "github": "https://github.com/Lazib17",
+  "linkedin": "https://www.linkedin.com/in/lazib-hossain-05438b30a/",
+  "roles": ["Full-Stack Developer", "Problem Solver"],
+  "cvUrl": "/Lazib-Hossain-CV.pdf"
+}

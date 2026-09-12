@@ -1,0 +1,8 @@
+@import "../../vars.css";
+
+.section {
+  padding: var(--section-padding) var(--container-padding);
+  max-width: calc(var(--container-max) + var(--container-padding) * 2);
+  margin: 0 auto;
+  width: 100%;
+}

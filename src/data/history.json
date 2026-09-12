@@ -1,0 +1,50 @@
+[
+  {
+    "type": "work",
+    "role": "Full-Stack Developer",
+    "organisation": "Freelance & Independent Projects",
+    "startDate": "Jan, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Built full-stack web applications using React, Node.js, and Python",
+      "Delivered client-facing products with responsive UI and RESTful APIs",
+      "Optimized application performance and maintained clean, scalable codebases"
+    ]
+  },
+  {
+    "type": "work",
+    "role": "Founder",
+    "organisation": "Bsc Rovierr",
+    "startDate": "Jan, 2025",
+    "endDate": "Present",
+    "experiences": [
+      "Helping Bangladeshi Students with Study Abroad related problems",
+      "We provide Consultancy and step by step application guide",
+      "A fast and student friendly place for solving study abroad problems"
+    ]
+  },
+  {
+    "type": "work",
+    "role": "English Educator",
+    "organisation": "A side quest",
+    "startDate": "",
+    "endDate": "",
+    "experiences": [
+      "Worked in English schools in Japan",
+      "Taught online",
+      "Team Leader at English Adventure Camp Japan"
+    ]
+  },
+  {
+    "type": "education",
+    "role": "Bachelors in Digital Business and Innovation",
+    "organisation": "Tokyo International University",
+    "startDate": "2023",
+    "endDate": "2027",
+    "experiences": [
+      "Focused in Web development, Data structure, AI and machine learning and Problem Solving",
+      "Built projects based on business problems using actual data and found accurate solutions",
+      "A strong understanding of both tech and IT world"
+    ]
+  }
+]

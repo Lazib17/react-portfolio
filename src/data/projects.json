@@ -5,7 +5,7 @@
     "description": "A full-featured expense management app to track spending, categorize transactions, and visualize budgets — built for clarity and daily use.",
     "skills": ["Python", "Flask", "HTML", "CSS"],
     "category": "backend",
-    "demo": "https://www.example.com",
+    "demo": "https://expensetracker-theta-cyan.vercel.app/",
     "source": "https://github.com/Lazib17"
   },
   {
@@ -14,7 +14,7 @@
     "description": "A cross-platform hadith reading app with home, library, and favorites, plus English and Bangla support — built with local notifications, offline-first encrypted SQLite caching, and a Hono REST API on Cloudflare Workers serving about 15,000 sahih hadiths.",
     "skills": ["TypeScript", "React Native", "Expo", "Hono", "Cloudflare Workers", "SQLite", "i18n"],
     "category": "fullstack",
-    "demo": "#",
+    "demo": "https://github.com/rejoanahmed/daily-hadith/tree/main",
     "source": "https://github.com/Lazib17"
   },
   {
@@ -32,7 +32,7 @@
     "description": "An AI-powered beauty analysis model that scans facial features and skin conditions to deliver personalized insights and recommendations.",
     "skills": ["Python", "Node.js", "MediaPipe", "TypeScript"],
     "category": "backend",
-    "demo": "https://www.example.com",
+    "demo": "https://beauty-scanner-model.vercel.app/",
     "source": "https://github.com/Lazib17"
   }
 ]

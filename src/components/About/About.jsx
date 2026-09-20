@@ -52,6 +52,7 @@ export const About = () => {
         <div className={styles.bio}>
           <p>{profile.bio}</p>
           <p className={styles.role}>{profile.title}</p>
+          <p className={styles.role}>AI Engineer</p>
         </div>
       </div>
 

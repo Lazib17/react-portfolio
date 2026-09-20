@@ -1,5 +1,14 @@
 [
   {
+    "title": "Job Analyzer",
+    "imageSrc": "projects/jobanalyzer.png",
+    "description": "A full-stack AI job matching app for Japan tech roles — scrapes Mynavi, CareerCross, Wantedly, and GaijinPot, ranks listings against an uploaded resume with Google Gemini, and surfaces skills gaps on a ranked dashboard.",
+    "skills": ["Python", "JavaScript", "React", "FastAPI", "Google Gemini", "Supabase", "Playwright", "Vercel"],
+    "category": "fullstack",
+    "demo": "https://job-analyzer-eight.vercel.app/",
+    "source": "https://github.com/Lazib17/Job-Analyzer"
+  },
+  {
     "title": "Expense Tracker",
     "imageSrc": "projects/etracker.jpg",
     "description": "A full-featured expense management app to track spending, categorize transactions, and visualize budgets — built for clarity and daily use.",

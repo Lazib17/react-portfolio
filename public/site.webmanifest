@@ -1,0 +1,9 @@
+{
+  "name": "Lazib Hossain Portfolio",
+  "short_name": "Lazib",
+  "description": "Full-Stack Developer & AI Engineer",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505"
+}

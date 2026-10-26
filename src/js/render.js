@@ -121,6 +121,9 @@ export function renderIndexMain() {
       const meta = [dates, item.location].filter(Boolean).join(" · ");
       const bullets = item.experiences.map((x) => `<li>${x}</li>`).join("");
       const tags = item.tags.map((t) => `<span class="tag">${t}</span>`).join("");
+      const website = item.website
+        ? `<a class="tag tag--link" href="${item.website}" target="_blank" rel="noopener noreferrer">Website <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>`
+        : "";
       return `
       <article class="exp-item" data-type="${item.type}" data-reveal style="--delay:${i * 80}ms">
         <div class="exp-item__year">${item.year}</div>
@@ -129,7 +132,7 @@ export function renderIndexMain() {
           <p class="exp-item__org">${item.organisation}</p>
           ${meta ? `<p class="exp-item__meta">${meta}</p>` : ""}
           <ul>${bullets}</ul>
-          <div class="exp-item__tags">${tags}</div>
+          <div class="exp-item__tags">${tags}${website}</div>
         </div>
       </article>`;
     })

@@ -597,6 +597,24 @@
   display: flex;
   flex-wrap: wrap;
   gap: 0.4rem;
+  align-items: center;
+}
+
+.tag--link {
+  border-color: rgba(182, 255, 60, 0.45);
+  color: var(--accent);
+  text-decoration: none;
+  transition: background 0.3s ease, border-color 0.3s ease;
+}
+
+.tag--link i {
+  font-size: 0.65em;
+  margin-left: 0.25rem;
+}
+
+.tag--link:hover {
+  background: rgba(182, 255, 60, 0.12);
+  border-color: var(--accent);
 }
 
 /* CTA */
